@@ -14,7 +14,7 @@ Fetching users and posts was straightforward, but efficiently sorting and displa
 
 # Task 2 
 
-## Avereage Claculator HTTP Microservice 
+## Average Claculator HTTP Microservice 
 
 Developed a frontend interface so that values will be fetched from apis but had issues with Apis as it had an cors issue 
 
