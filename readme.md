@@ -5,7 +5,7 @@ Building this React-based Social Media Analytics app with TailwindCSS was an exc
 
 ## API Challenges & CORS Issues 
 
-Our API required an access token, which was easy to handle, but then came the dreaded **CORS errors**. Since the API lacked proper CORS headers, our requests were blocked. To bypass this, we temporarily used **CORS Anywhere**, which helped us proceed but wasn’t a long-term fix. Future improvements will involve setting up proper CORS handling on the backend.
+API required an access token, which was easy to handle, but then came the dreaded **CORS errors**. Since the API lacked proper CORS headers, our requests were blocked. To bypass this, we temporarily used **CORS Anywhere**, which helped us proceed but wasn’t a long-term fix. 
 
 ## Data Fetching & Performance Optimization 
 
@@ -16,6 +16,8 @@ Fetching users and posts was straightforward, but efficiently sorting and displa
 
 ## Average Claculator HTTP Microservice 
 
-Developed a frontend interface so that values will be fetched from apis but had issues with Apis as it had an cors issue 
+Developed a frontend interface so that values will be fetched from apis but had issues with Apis as it had an cors issue . 
+Also had less time to develop beause spend a lot of time in task 1
+
 
 # Also temp-233 is my account only have some issues with VS source control
