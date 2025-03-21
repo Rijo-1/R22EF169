@@ -12,8 +12,6 @@ Our API required an access token, which was easy to handle, but then came the dr
 Fetching users and posts was straightforward, but efficiently sorting and displaying them was a different story. Since our UI needed **real-time updates**, we used **SWR (stale-while-revalidate)** to manage data fetching, keeping things fresh without overloading the server. This improved responsiveness and made the experience much smoother.
 
 
-## Also temp-233 is my account only have some issues with VS source control
-
 # Task 2 
 
 ## Avereage Claculator HTTP Microservice 
