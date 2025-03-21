@@ -7,7 +7,7 @@ const port = 9876;
 // Configuration
 const WINDOW_SIZE = 10;
 const TIMEOUT_MS = 500;
-const TEST_API_BASE_URL = 'https://test-api-server.com'; // Replace with actual test server URL
+const TEST_API_BASE_URL = 'http://localhost:9876/numbers'; // Replace with actual test server URL
 
 // Store for numbers
 class NumberStore {
